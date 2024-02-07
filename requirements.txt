@@ -1,0 +1,13 @@
+numpy~=1.24.4
+matplotlib~=3.7.4
+pillow~=10.2.0
+scikit-learn~=1.3.2
+scipy~=1.10.1
+scikit-image~=0.21.0
+
+#另一个版本，如果上述不符合请采用这个版本
+#numpy==1.19.2
+#matplotlib==3.3.2
+#scikit-learn==0.23.2
+#Pillow==8.0.0
+#scipy==1.5.2
